@@ -1,5 +1,21 @@
 # @optiaxiom/react
 
+## 3.5.2
+
+### Patch Changes
+
+- 7a677b6: stopped animation frame callbacks running after unmount
+- 94f2729: stopped `DataTable` arrow keys selecting unselectable rows
+- 683f82b: removed hidden empty title and description from `Dialog` and `Menu`
+- d3326be: warned on duplicate `Menu` option keys and stopped hover crash
+- 1dadf17: pinned Radix dependencies to their latest React 17-compatible release
+- 472efe0: stopped components crashing without `scrollIntoView` or `ResizeObserver`
+- 21a1e5f: documented `Select` empty-value option as the "none" choice
+- 601ec05: fixed `SelectTrigger` ignoring `aria-label` outside `Field`
+- 8175907: made new toasts clickable in tests without CSS
+- Updated dependencies [1dadf17]
+  - @optiaxiom/globals@3.0.8
+
 ## 3.5.1
 
 ### Patch Changes

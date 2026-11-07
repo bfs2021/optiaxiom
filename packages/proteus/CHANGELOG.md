@@ -1,5 +1,22 @@
 # @optiaxiom/proteus
 
+## 3.11.2
+
+### Patch Changes
+
+- 472efe0: stopped crashing without `scrollIntoView` or `ResizeObserver`
+- 1dadf17: pinned Radix dependencies to their latest React 17-compatible release
+- Updated dependencies [7a677b6]
+- Updated dependencies [94f2729]
+- Updated dependencies [683f82b]
+- Updated dependencies [d3326be]
+- Updated dependencies [1dadf17]
+- Updated dependencies [472efe0]
+- Updated dependencies [21a1e5f]
+- Updated dependencies [601ec05]
+- Updated dependencies [8175907]
+  - @optiaxiom/react@3.5.2
+
 ## 3.11.1
 
 ### Patch Changes

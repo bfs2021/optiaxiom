@@ -1,5 +1,14 @@
 # @optiaxiom/mcp
 
+## 3.3.1
+
+### Patch Changes
+
+- 89f2cf2: added jsdom `ResizeObserver` stub to test environments guide
+- 586cd47: added `Menu` and `Select` reference tests
+- 1dadf17: pinned Radix dependencies to their latest React 17-compatible release
+- 601ec05: added `Select` test pattern
+
 ## 3.3.0
 
 ### Minor Changes
